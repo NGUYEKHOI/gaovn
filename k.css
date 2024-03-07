@@ -1,0 +1,14 @@
+
+h1 {
+    background-color: rgba(233, 231, 241, 0.829);
+    text-align: center;
+    width: 100%;
+    height:auto;
+     
+    position: fixed;
+    top: auto;
+    text-size-adjust: auto
+    ;
+    
+}
+#heading{ color:rgb(15, 15, 15);font-size: 90px;}
